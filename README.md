@@ -1,5 +1,6 @@
 # EverPress
 WordPress Evernote: Just Married
+http://minhthang.name.vn/web-design/wordpress/wordpress-evernote-just-married-part-1-the-premise-and-the-theory/
 
 Been waiting a long time for this, WordPress and Evernote are there, shining in the fullness.
 WordPress, prince of Hobbits, outstanding in helping human race concoct articles, tutorials, etc. aka "Blogging".
